@@ -14,6 +14,6 @@ Here are 5 things I've learned we need for developing software with AI:
 2. A .operative/ that's updated as the source of truth.
 3. A .operative/skills/ for repeatable actions and events.
 4. A planning directory.
-5. A more detailed directory outlining the code. For yourself and the Agent for iterations.
+5. A detailed directory outlining the file structure and code. For yourself and the Agent for iterations.
 
 Thanks for visiting.
